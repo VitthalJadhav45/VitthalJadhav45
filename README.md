@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm vitthal jadhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitthaljadhav45&label=Profile%20views&color=0e75b6&style=flat" alt="vitthaljadhav45" /> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **c++**
 
